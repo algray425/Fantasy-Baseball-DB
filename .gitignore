@@ -1,2 +1,5 @@
 *-checkpoint.ipynb
 *.db
+mlb_api_data/
+player_projections/tuner/
+player_projections/shuffled_training_permutations/
