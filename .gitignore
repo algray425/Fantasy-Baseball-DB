@@ -3,3 +3,9 @@
 mlb_api_data/
 player_projections/tuner/
 player_projections/shuffled_training_permutations/
+player_projections/modelCheckpoints/
+player_projections/pitcher_tuner/
+player_projections/pitcherModelCheckPoints/
+*.csv
+*.json
+*.h5
